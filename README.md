@@ -15,10 +15,10 @@ Please find all challenge rules in the following:
 - The final comparison among all algorithms will take place during the conference. All algorithms will be evaulated on the same PC. The evaulating PC will be a Linux machine with Ubuntu 18.10.
 
 - By **July 31st 2019** all applicants have to submit the following:
-  1 An executable batch file that installs all libraries and tools necessary to support algorithm execution. Please make sure we do not need to do any special operation other than running the script. In case of errors or missing execution the organizers may decide to discard the applicant participation to the contest.
-  2 An extended abstract, following the conference printing guidelines, that describes the algorithm and the approach in full details. *This abstract will be published in the conference proceedings*.
-  3 The complete code.
-  4 Any other support file(s) necessary to execute the algorithm.
+  - An executable batch file that installs all libraries and tools necessary to support algorithm execution. Please make sure we do not need to do any special operation other than running the script. In case of errors or missing execution the organizers may decide to discard the applicant participation to the contest.
+  - An extended abstract, following the conference printing guidelines, that describes the algorithm and the approach in full details. *This abstract will be published in the conference proceedings*.
+  - The complete code.
+  - Any other support file(s) necessary to execute the algorithm.
   
 - On **July 15th 2019** all applicants will receive a set of queries Q, the same set for everyone. *Those are the queries that will be used at conference time to evaluate all algorithms*. The algorithm that, on average, provides the most accurate answers will win the competition. Please note that the queries Q during the competition will be evaulated against some arbitrary time-outs
 
