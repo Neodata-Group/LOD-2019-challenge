@@ -12,7 +12,8 @@ Please find all challenge rules in the following:
 
 - The algorithm will receive as input (1) a "condition" C which applies on the given schema and (2) a "time-out in seconds" T. The algorithm has to terminate within T seconds and should return back the most precise counter of the number of tuples matching C. The condition C is something like a standard SQL WHERE clause which can contain any standard SQL operators (including SUBSTRING). Each contestant can choose his/her own syntax for C as long as all possible standard SQL-WHERE operators can be specified. The condition C can spawn over the two input tables (USER and ACTIONS) which are joinable by the user_id field. 
 
-- The final comparison among all algorithms will take place during the conference. All algorithms will be evaulated on the same hardware platform, this will be a cloud hosted Linux virtual machine.
+- The final comparison among all algorithms will take place during the conference. All algorithms will be evaulated on the same hardware platform, this will be a cloud hosted Linux virtual machine 8 cores, 56 Gb RAM, 1Tb SSD Disk.
+The algorithms can run as standalone process as well as a distributed system (preferred), all libraries need to be included or publicly available.
 
 - By **July 31st 2019** all applicants have to submit to lod2019challenge@neodatagroup.com all the following:
   - An executable batch file that installs all libraries and tools necessary to support algorithm execution. Please make sure that no special operation, other than running the script, is required. In case of errors or missing execution the organizers may decide to discard the applicant participation to the contest.
