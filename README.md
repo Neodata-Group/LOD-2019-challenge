@@ -23,3 +23,10 @@ The algorithms can run as standalone process as well as a distributed system (pr
   
 - On **July 15th 2019** all applicants will receive a set of queries Q, the same set for everyone. *Those are the queries that will be used at conference time to evaluate all algorithms*. The algorithm that, on average, provides the most accurate answers will win the competition. Please note that the queries Q during the competition will be evaulated against some arbitrary time-outs.
 
+**IMPORTANT DATES:**
+
+  - Evaluation queries available on: July 5, 2019
+  - Submission of full system and abstract: July 19, 2019
+  - Notification of Acceptance: July 30, 2019 
+  - Challenge presentation: September 10-13, 2019 (final date to be defined)
+  
